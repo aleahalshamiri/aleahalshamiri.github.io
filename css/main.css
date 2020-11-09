@@ -7,11 +7,7 @@
 #ec1c23
 */
 
-@font-face
-{
-  src: url("../fonts/Rowdies-Light.ttf");
-  font-family: "RowdiesLight"
-}
+
 *
 {
   box-sizing: border-box;
@@ -19,7 +15,7 @@
 body
 {
   height: 1500px;
-  font-family: "RowdiesLight"
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 /* Start Navbar */
